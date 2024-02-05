@@ -23,6 +23,6 @@
     "node-fetch": "3.3.2"
   },
   "devDependencies": {
-    "@riddance/env": "0.4.3"
+    "@riddance/env": "git@github.com:holdbar-com/node-env.git#9ebdad8f51265a07d66c83704b5e90c224c0fce8"
   }
 }
