@@ -1,6 +1,6 @@
 {
   "name": "@riddance/fetch",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "type": "module",
   "license": "MIT",
   "engines": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/holdbar-com/node-fetch.git"
+    "url": "https://github.com/understory-io/node-fetch.git"
   },
   "files": [
     "*.js",
@@ -27,6 +27,6 @@
     "node-fetch": "3.3.2"
   },
   "devDependencies": {
-    "@riddance/env": "git@github.com:holdbar-com/node-env.git#b9d22842822eda69e1a9a53bb67260ca48590a88"
+    "@riddance/env": "git@github.com:understory-io/node-env.git#b9d22842822eda69e1a9a53bb67260ca48590a88"
   }
 }
